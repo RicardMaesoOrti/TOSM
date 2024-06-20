@@ -4,6 +4,9 @@ How to combine ML and ecodesign to find the best structure/material for sustaina
 
 This is the repository of Ricard Maeso Orti and Pablo Ballesteros Martín 
 
+The project uses the SimJEB database.
+
+
 OptistructAuto notebook: 
   - Inputs: directory with .fem files and an excel with materials properties
   - Output: Excel file with results of displacement, VM stresses and environmental impact
